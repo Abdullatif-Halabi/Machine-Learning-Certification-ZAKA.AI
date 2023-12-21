@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>English To French Translator</title>
+    <style>
+      body {
+        background-image: url("/static/wallpaper.png");
+        background-size: cover;
+      }
+
+      .form-container {
+        text-align: center;
+      }
+
+      .form-group {
+        display: inline-block;
+        margin-inline: 100px;
+        margin-top: 100px;
+      }
+
+      .form-group label {
+        color: aqua;
+        font-size: medium;
+      }
+
+      .form-group input {
+        width: 300px;
+        height: 40px;
+        font-size: 16px;
+      }
+
+      .translate-button {
+        margin-top: 120px;
+        margin-left: 20px;
+        width: 80px;
+        height: 80px;
+        border-radius: 100%;
+        font-size: 16px;
+      }
+
+      h1 {
+        color: gray;
+        text-align: center;
+      }
+
+      p {
+        font-size: 25px;
+        color: cyan;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to our humble translator !</h1>
+    <p>Let's check your sentence in French ;)</p>
+
+    <div class="form-container">
+      <form action="/translate" method="post">
+        <div class="form-group">
+          <label for="userInput">Enter your sentence:</label>
+          <input type="text" id="userInput" name="userInput" />
+        </div>
+
+        <br />
+        <button class="translate-button" type="submit">Translate</button>
+        <br />
+
+        <div class="form-group">
+          <label for="frenchoutput">Its translation is ---></label>
+          <input
+            type="text"
+            id="frenchoutput"
+            name="frenchoutput"
+            value="{{ translated_sentence }}"
+            readonly
+          />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

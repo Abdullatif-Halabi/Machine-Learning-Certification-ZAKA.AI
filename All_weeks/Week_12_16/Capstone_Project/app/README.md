@@ -1,1 +1,0 @@
-# Auto-Annotation-Segmentation-Pipeline_back-end
