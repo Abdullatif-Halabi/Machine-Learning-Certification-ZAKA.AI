@@ -6,7 +6,7 @@ Please bear in mind that this repository is a continual work in progress. I'm co
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
+- [Contact Information](#contact-information)
 - [Week 1: Medical Cost Prediction (Scikit-learn Models)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_01)
 - [Week 2: Smoker Status Prediction (Scikit-learn Models)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_02)
 - [Week 3: Gaussian Naive Bayes Classifier (From Scratch)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_03)
