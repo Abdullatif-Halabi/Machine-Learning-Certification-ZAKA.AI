@@ -15,7 +15,7 @@ Please bear in mind that this repository is a continual work in progress. I'm co
 - [Week 7: Mask Detection (Convolutional Neural Networks)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_07)
 - [Week 8: Machine Translation (RNNs, LSTMs, GRUs, Embeddings)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_08)
 - [Week 10: Deployment (Flask, Docker, and Gradio)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_10)
-- [Week 12 to 16: Capstone Project (Talent Recommendation Engine using OpenAI)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_01)
+- [Week 12 to 16: Capstone Project (Talent Recommendation Engine using OpenAI)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_12_16)
 
 ## Project Structure
 
