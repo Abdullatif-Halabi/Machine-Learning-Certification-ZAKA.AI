@@ -7,15 +7,15 @@ Please bear in mind that this repository is a continual work in progress. I'm co
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Week 1: Medical Cost Prediction (Scikit-learn Models)](https://github.com/royaad/AIC/tree/main/Week_01)
-- [Week 2: Smoker Status Prediction (Scikit-learn Models)](https://github.com/royaad/AIC/tree/main/Week_02)
-- [Week 3: Gaussian Naive Bayes Classifier (From Scratch)]
-- [Week 4: Smoker Status Prediction (Data Balancing, Hyperparameter Tuning, and Regularization)]
-- [Week 6: Stroke Prediction (Dense Neural Networks and Data Pipeline)]
-- [Week 7: Mask Detection (Convolutional Neural Networks)]
-- [Week 8: Machine Translation (RNNs, LSTMs, GRUs, Embeddings)]
-- [Week 10: Deployment (Flask, Docker, and Gradio)]
-- [Week 12 to 16: Capstone Project (Talent Recommendation Engine using OpenAI)]
+- [Week 1: Medical Cost Prediction (Scikit-learn Models)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_01)
+- [Week 2: Smoker Status Prediction (Scikit-learn Models)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_02)
+- [Week 3: Gaussian Naive Bayes Classifier (From Scratch)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_03)
+- [Week 4: Smoker Status Prediction (Data Balancing, Hyperparameter Tuning, and Regularization)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_04)
+- [Week 6: Stroke Prediction (Dense Neural Networks and Data Pipeline)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_06)
+- [Week 7: Mask Detection (Convolutional Neural Networks)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_07)
+- [Week 8: Machine Translation (RNNs, LSTMs, GRUs, Embeddings)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_08)
+- [Week 10: Deployment (Flask, Docker, and Gradio)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_10)
+- [Week 12 to 16: Capstone Project (Talent Recommendation Engine using OpenAI)](https://github.com/Abdullatif-Halabi/Machine-Learning-Certification-ZAKA.AI/tree/main/Week_01)
 
 ## Project Structure
 
