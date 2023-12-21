@@ -23,7 +23,7 @@ Within this repository, the structure is organized as follows:
 
 -Week X: Each week is delineated by its individual folder (e.g., Week 1, Week 2, etc.). Inside these folders, you'll discover project-specific materials, code, and comprehensive documentation.
 
-=Data: This designated subfolder houses all the datasets utilized across the projects. Exploring this data can provide a deeper understanding of the context and challenges tackled in each project.
+-Data: This designated subfolder houses all the datasets utilized across the projects. Exploring this data can provide a deeper understanding of the context and challenges tackled in each project.
 
 ## Contact Information
 
